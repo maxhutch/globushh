@@ -31,8 +31,8 @@ Install
     HostName cli.globusonline.org
     User maxhutch
 
-.. |Version Status| image:: https://pypip.in/v/globussh/badge.png
+.. |Version Status| image:: https://img.shields.io/pypi/v/globussh.svg
    :target: https://pypi.python.org/pypi/globussh/
-.. |Downloads| image:: https://pypip.in/d/globussh/badge.png
+.. |Downloads| image:: https://img.shields.io/pypi/dm/globussh.svg
    :target: https://pypi.python.org/pypi/globussh/
 
